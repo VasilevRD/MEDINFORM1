@@ -1,0 +1,37 @@
+body{
+    background-color:lightgray;
+    color: black;
+    margin: 5px;
+    padding: 2px;
+    font-family:sans-serif;
+    }
+
+p
+{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2
+{
+color: rgb(180, 35, 65);
+text-decoration-line:underline;
+}
+h3
+{
+color: rgb(180, 37, 65);
+text-decoration-line:underline;
+}
+h4
+{
+color: rgb(180, 37, 65);
+text-decoration-line:underline;
+}
+article
+{
+    float: left;
+   
+    width: 30%;
+    height: 93%;
+    background: ;
+   
+}
